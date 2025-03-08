@@ -70,7 +70,6 @@ Example: [https://openapi.programming-hero.com/api/phero-tube/video/aaac](https:
 
 - Load all the videos from API
 - use the Card Layout mentioned in Design part
-- Show Video Duration (if have)
 - Show Verified badge (if Verified)
 - on click Show Video Details with Author info in a modal
 - Show No Video Icon if specific category have no videos
@@ -80,12 +79,9 @@ Example: [https://openapi.programming-hero.com/api/phero-tube/video/aaac](https:
 ### Search Functionality
 
 - Integrate search functionality
-- on click Search button show Videos from all videos and de-activate active button on category
+- on input change  de-activate active button on category and show matched videos only
 
-### Sort Functionality
 
-- Sort Loaded Videos based on views
-- on click Sort by View Button Sort Loaded videos by views in DESC order
 
 <hr/>
 
